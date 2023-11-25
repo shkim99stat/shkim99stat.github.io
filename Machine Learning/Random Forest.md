@@ -4,6 +4,7 @@ title: Machine Learning
 nav_order: 1
 description: "Random Forest"
 permalink: /
+sort: 1
 ---
 
-RF
+# Random Forest
