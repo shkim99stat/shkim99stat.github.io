@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Random Forest
+title: Machine Learning
 nav_order: 1
-description: ""
+description: "Random Forest"
 permalink: /
 ---
 
