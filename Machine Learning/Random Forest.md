@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Machine Learning
+title: Random Forest
+parent: Machine Learning
 nav_order: 1
-description: "Random Forest"
-permalink: /
-sort: 1
 ---
 
 # Random Forest
