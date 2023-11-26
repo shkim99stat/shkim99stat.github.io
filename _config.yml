@@ -186,3 +186,11 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+  # Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
