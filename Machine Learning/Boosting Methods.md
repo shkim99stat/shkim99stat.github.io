@@ -10,7 +10,7 @@ nav_order: 1
 
 ## AdaBoost
 
--1과 1의 값을 갖는 response variable $Y\in \{ -1, 1\}$가 있고, $X$를 predictor variable이라 하자.
+-1과 1의 값을 갖는 response variable $ Y\in \{ -1, 1\} $가 있고, $X$를 predictor variable이라 하자.
 분류기를 $G$라 했을 때, training sample의 error rate는 다음과 같이 구할 수 있다.
 $$
 \bar{\text {err}} =\frac{1}{N}\sum\limits_{i=1}^{N}\mathbb I(y_{i}\neq G(x_i))
