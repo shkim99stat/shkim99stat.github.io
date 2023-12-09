@@ -25,3 +25,8 @@
   {% when "mathjax" %}
     {% include mathjax.html %}
 {% endcase %}
+
+
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
