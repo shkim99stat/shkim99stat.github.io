@@ -3,7 +3,7 @@ layout: default
 title: Boosting Methods
 parent: Machine Learning
 nav_order: 1
-math: mathjax
+use_math: true
 ---
 
 부스팅은 여러 약한 분류기(weak classifier)들을 합쳐서 강력한 모델을 만드는 학습방법이다. 
