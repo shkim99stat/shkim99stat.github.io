@@ -1,6 +1,6 @@
-# shkim99stat · AI 공부 기록
+# Generative model
 
-생성형 AI, Efficient AI, Uncertainty Quantification, Probabilistic ML에 관한 한국어 공부 기록과 논문 리뷰를 위한 블로그입니다.
+Generative AI, Efficient AI, Uncertainty Quantification, Probabilistic ML에 관한 공부 기록과 논문 리뷰를 위한 블로그입니다.
 
 - 게시 주소: https://shkim99stat.github.io
 - 기반: [Chirpy Starter](https://github.com/cotes2020/chirpy-starter)
