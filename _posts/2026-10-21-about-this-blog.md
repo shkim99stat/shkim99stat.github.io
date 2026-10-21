@@ -8,7 +8,7 @@ pin: true
 math: false
 ---
 
-이 블로그는 생성형 AI, Efficient AI, Uncertainty Quantification, Probabilistic ML에 관한 개인 공부 기록과 논문 리뷰를 모으는 공간입니다. 글은 한국어를 중심으로 작성합니다.
+이 블로그는 Generative AI, Efficient AI, Uncertainty Quantification, Probabilistic ML에 관한 공부 기록과 논문 리뷰를 모으는 공간입니다. 
 
 ## 공부 기록
 
