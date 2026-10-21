@@ -1,5 +1,5 @@
 ---
-title: 프로젝트
+title: projects
 icon: fas fa-flask
 order: 4
 permalink: /projects/
