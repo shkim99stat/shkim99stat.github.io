@@ -5,7 +5,7 @@ order: 5
 permalink: /about/
 ---
 
-생성형 AI, Efficient AI, Uncertainty Quantification, Probabilistic ML을 공부하며 남기는 한국어 기록입니다.
+Generative AI, Efficient AI, Uncertainty Quantification, Probabilistic ML을 공부하며 남기는 기록입니다.
 
 개인 공부와 논문 리뷰를 주로 다루고, 직접 구현하거나 검증한 내용은 프로젝트로 정리합니다.
 
