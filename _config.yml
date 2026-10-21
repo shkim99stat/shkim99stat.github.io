@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: shkim99stat · AI 공부 기록
+title: AI Study
 
-tagline: 공부 기록 · 논문 리뷰 · 구현과 재현
+tagline: ""
 
 description: >- # used by seo meta and the atom feed
   생성형 AI, Efficient AI, Uncertainty Quantification, Probabilistic ML에 관한 한국어 공부 기록과 논문 리뷰.
